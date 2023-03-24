@@ -1,6 +1,6 @@
 # DEPRECATION NOTICE
 
-This package has moved into go-libp2p as a sub-package, github.com/libp2p/go-libp2p/p2p/transport/tcp.
+This package has moved into go-libp2p as a sub-package, [libp2p/go-libp2p/p2p/transport/tcp](https://github.com/libp2p/go-libp2p/tree/master/p2p/transport/tcp).
 
 go-tcp-transport
 ==================
